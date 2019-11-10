@@ -7,7 +7,7 @@ A simple colour choosing app that displays programmatic information and useful d
 ## To Do
 * Animating background colour changes
 * Replacing colour boxers with larger singular colour canvas
-** Additionally with a colour slider to change the canvas colour range
+* Additionally adding a colour slider to change the above canvas colour range
 * Adding an HSL slider and HSL information to displayed data like originally planned
 
 ## Release History
