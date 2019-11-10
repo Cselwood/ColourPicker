@@ -4,7 +4,11 @@ Simple Android app to show HEX values, RGB values and CSS/OpenGL, floating point
 ## What and Why
 A simple colour choosing app that displays programmatic information and useful data about the colour.
 
+## Completed To Do
+* Added Downloadable Fonts to release version
+
 ## To Do
+* Editing HEX/RGB/RGBA to update colour selection (with validation)
 * Animating background colour changes
 * Replacing colour boxers with larger singular colour canvas
 * Additionally adding a colour slider to change the above canvas colour range
