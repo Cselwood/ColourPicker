@@ -9,6 +9,8 @@ A simple colour choosing app that displays programmatic information and useful d
 * Replacing colour boxers with larger singular colour canvas
 * Additionally adding a colour slider to change the above canvas colour range
 * Adding an HSL slider and HSL information to displayed data like originally planned
+* Making MainActivity.xml more dynamic
+* Calculating rgb from hex and passing automatically into rgba
 
 ## Release History
 * 1.0.0 Initial Commit - Uploaded with basic functionality
