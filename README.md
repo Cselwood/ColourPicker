@@ -15,6 +15,9 @@ A simple colour choosing app that displays programmatic information and useful d
 ## Release History
 * 1.0.0 Initial Commit - Uploaded with basic functionality
 
-## License
+## Meta
+Chris Selwood – chris@selwood.io
+[https://github.com/Cselwood](https://github.com/Cselwood)
 
+## License
 Distributed under the MIT license. See ``LICENSE`` for more information.
