@@ -22,8 +22,6 @@ A simple colour choosing app that displays programmatic information and useful d
 
 ## Meta
 By Chris Selwood
-Visit me: [http://www.selwood.io/](http://www.selwood.io/)
-Email me: chris@selwood.io
 [https://github.com/Cselwood](https://github.com/Cselwood)
 
 ## License
